@@ -1,0 +1,16 @@
+.header {
+  height: 78px;
+  background-color: #dbdbdb;
+}
+
+.header__navigation {
+  margin: 30px 60px;
+  position: absolute;
+}
+
+.header__link {
+  padding-right: 58px;
+  font-size: 16px;
+  color: #455174;
+  text-decoration: none;
+}

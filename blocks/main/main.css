@@ -1,0 +1,65 @@
+.about-me__photo {
+  width: 24px;
+  height: 24px;
+  object-fit: contain;
+  padding-right: 33px;
+}
+
+.about-me {
+  display: table-cell;
+  width: 521px;
+  height: 256px;
+  margin-bottom: 147px;
+}
+
+.main__row {
+  display: table-row;
+}
+
+.main__container {
+  max-width: 1265px;
+  margin: 0 auto;
+}
+
+.main {
+  background-color: #dbdbdb;
+}
+
+.about-me__title {
+  height: 138px;
+  font-size: 53px;
+  color: rgba(69, 81, 116, 0.8);
+  font-weight: 700;
+  line-height: 69px;
+}
+
+.main__photo {
+  width: 368px;
+  height: 456px;
+  margin-top: 21px;
+  margin-left: 42px;
+}
+
+.main__my-photo {
+  text-align: center;
+  box-sizing: border-box;
+  border-radius: 50%;
+  width: 502px;
+  height: 502px;
+  margin-top: 82px;
+  margin-left: 214px;
+  background: rgba(30, 29, 29, 0.2);
+  border: 1px solid #a6bcfa;
+}
+
+.about-me__profession {
+  padding-top: 22px;
+  color: #828282;
+  font-weight: 500;
+  font-size: 19.9313px;
+  line-height: 26px;
+}
+
+.about-me__social-media {
+  padding-top: 22px;
+}
